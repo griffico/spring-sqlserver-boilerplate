@@ -1,0 +1,5 @@
+CREATE DATABASE localdb;
+CREATE DATABASE testdb;
+GO
+
+
